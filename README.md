@@ -1,7 +1,9 @@
 # Olá Pessoal!
 
+<img src="https://raw.githubusercontent.com/Pedro-Henrique3216/Pedro-Henrique3216/output/snake.svg" alt="Snake animation" />
+
 <p>
-  Oi meu nome é Pedro, Um estudante apaixonado por progamação do Brasil!
+  Oi meu nome é Pedro, Um estudante apaixonado por progamação, do Brasil!
 
   - Atualmente estou estudando Analise e Desenvolvimento de Sistema na Fiap
     
